@@ -4,3 +4,23 @@
     box-sizing: border-box
 }
 
+body {
+font-family: sans-serif;
+}
+
+h1 {
+    margin: 1rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    margin: 1rem;
+}
+
+button {
+    font-size: 1em;
+    margin: 1rem;
+}
