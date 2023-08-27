@@ -5,7 +5,9 @@
 }
 
 body {
-font-family: sans-serif;
+    font-family: sans-serif;
+    color: var(--tg-theme-text-color);
+    background: var(--tg-theme-bg-color);
 }
 
 h1 {
@@ -21,6 +23,9 @@ p {
 }
 
 button {
-    font-size: 1em;
+    font-size: 2em;
     margin: 1rem;
+    padding: 0.25rem 2rem;
+    background: var(--tg-theme-button-color)
+    color: var(--tg-theme-button-text-color)
 }
