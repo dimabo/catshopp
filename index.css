@@ -41,3 +41,16 @@ button:hover {
 form {
     display: none;
 }
+
+input {
+    width: 90%;
+    outline: none;
+    margin: 10px 5%;
+    font-size: 1rem;
+    border: 2px solid silver;
+    border-radius: 5px;
+}
+
+input:focus {
+    border-color: #db5d5d;
+}
